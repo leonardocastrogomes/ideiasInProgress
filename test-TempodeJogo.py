@@ -1,3 +1,5 @@
+# Script que recebe respostas do usuário ao e devolve os resultados possíveis
+
 tempoDeJogo = int(input("Quanto tempo já temos jogado?"))
 
 if tempoDeJogo <= 90:
