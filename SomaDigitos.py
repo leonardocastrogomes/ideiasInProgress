@@ -1,3 +1,5 @@
+# Script que recebe um número inteiro inserido pelo usuário e devolve a soma dos dígitos do número
+
 numeroN = input('Digite um número inteiro:')
 nAlg = len(numeroN)
 numeroN = int(numeroN)
