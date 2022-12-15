@@ -1,3 +1,5 @@
+# Script que recebe os parâmetros de uma função de segundo grau e calcula as raizes da equação
+
 import math
 a = int(input("Qual é o valor de A na equação de segundo grau?:"))
 b = int(input("Qual é o valor de B na equação de segundo grau?:"))
