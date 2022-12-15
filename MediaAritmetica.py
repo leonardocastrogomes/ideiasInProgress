@@ -1,3 +1,5 @@
+# Script que recebe quatro notas inseridas pelo usuário, calcula e imprime a média aritmética
+
 nota1 = float(input("Digite a primeira nota:"))
 nota2 = float(input("Digite a segunda nota:"))
 nota3 = float(input("Digite a terceira nota:"))
