@@ -1,3 +1,6 @@
+# Função que um número inteiro inserido pelo usuário e devolve o maior número primo anterior caso o número informado não seja primo
+
+
 def eh_Primo(n):
     import math
     if n>0:
@@ -15,12 +18,11 @@ def eh_Primo(n):
     return primo
 
 def maior_primo (k):
-    i = k
-    teste = eh_Primo(i)
+    teste = eh_Primo(k)
     if teste == True:
-        return i
+        return k
     else:
         while teste == False:
-                i = i-1
-                teste = eh_Primo (i)
-        return i
+                k -= 1
+                teste = eh_Primo (k)
+        return k
