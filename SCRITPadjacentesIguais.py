@@ -1,3 +1,5 @@
+# Script que recebe um número inteiro e informa se o número possui algarismos adjacentes iguais
+
 numeroIn = input ('digite um número inteiro: ')
 quantDigitos = len (numeroIn)
 numeroIn = int(numeroIn)
