@@ -1,3 +1,5 @@
+# Implementação das funções fatorial e coefBinomial com execussão de bateria de testes automatizados para avaliar a consistência das implementações 
+
 def fatorial(x):
     fatorialX = 1
     if x < 0:
