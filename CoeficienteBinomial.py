@@ -1,3 +1,4 @@
+# Função que calcula o coeficiente binomial de um par de números naturais
 
 def fatorial(x):
     fatorialX = 1
