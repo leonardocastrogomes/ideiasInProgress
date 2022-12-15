@@ -1,3 +1,5 @@
+# Script que recebe uma quantidade de segundos, converte e imprime no formato dias, horas, minutos e segundos
+
 qtdSegundos = int(input("Por favor, entre a quantidade de segundos que deseja converter:"))
 dias = qtdSegundos // (60*60*24)
 horas = (qtdSegundos // (60*60))-(dias*24)
