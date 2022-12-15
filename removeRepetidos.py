@@ -1,3 +1,5 @@
+# função que recebe uma lista e remove os elementos repetidos
+
 def remove_repetidos (x):
     n = len (x)
     lista = []
