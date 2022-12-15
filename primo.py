@@ -1,3 +1,5 @@
+# script que recebe um número inteiro inserido pelo usuário e informa se este número é primo ou não primo
+
 import math
 
 numeroN = int(input('Digite um número inteiro:'))
