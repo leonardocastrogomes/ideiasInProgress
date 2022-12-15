@@ -1,3 +1,10 @@
+# App que recebe parâmetros da assinatura de autoria de um texto qualquer e 'n' textos inseridos
+# pelo usuário e informa qual dos textos possui a maior probabilidade de ser um plágio.
+# Implementa também a função calcula_assinatura (texto) que permitem o cálculo da assinatura de estilo em um texto
+# e a função compara_assinatura (a,b) que recebe duas assinaturas e calcula o índice de semelhança entre os textos.
+# Minha implementação para o exercício de conclusão do curso Introdução à Ciência da Computação com Python
+# oferecido pelo IME/USP na plataforma Coursera.
+
 import re
 
 def le_assinatura():
