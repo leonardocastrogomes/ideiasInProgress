@@ -1,3 +1,5 @@
+# Função que calcula o fatorial de um número inteiro inserido pelo usuário
+
 numeroN = int(input('Digite o valor de n:'))
 fatorialN = numeroN
 
