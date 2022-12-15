@@ -1,3 +1,5 @@
+# Script que recebe um número inteiro, identifica se existem algarismos adjacentes iguais, informando a quantidade de pares ocorridos
+
 numeroIn = input ('digite um número inteiro: ')
 quantDigitos = len (numeroIn)
 numeroIn = int(numeroIn)
