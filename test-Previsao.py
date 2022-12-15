@@ -1,3 +1,5 @@
+# Script que recebe respostas do usuário a um quiz e imprime resultados possíveis
+
 ehFeriado = input ("É feriado? (y/n):")
 fazSol = input ("Faz Sol? (y/n):")
 if ehFeriado == 'y' and fazSol == 'y':
