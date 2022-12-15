@@ -1,3 +1,5 @@
+# Implementação das funções eh_Primo(n) e maiorPrimo(k) com bateria de testes automatizados para avaliar a consistência das funções
+
 def eh_Primo(n):
     import math
     divisor = int(math.sqrt (n))
