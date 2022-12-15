@@ -1,4 +1,7 @@
-# função principal
+# Minha implementação do clássico Jogo do Nim, que garante ao computador uma estratégia vencedora
+# para qualquer partida ou campeonato disputados contra o usuário.
+# Realizado como avaliação da Semana 7 no curso Introdução à Ciência da Computação com Python
+# oferecido pelo IME/USP na plataforma Coursera
 
 def main():
     '''
